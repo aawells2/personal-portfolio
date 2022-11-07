@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 function CollapsibleExample() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar collapseOnSelect expand="lg" bg="primary" variant="dark">
       <Container>
         <Navbar.Brand as={Link} to="/">Logo</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />

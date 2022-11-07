@@ -2,9 +2,9 @@ import { Container, Form, Button } from "react-bootstrap";
 
 function Contact() {
   return (
-    <Container className="mt-5">
+    <Container className="my-5">
       <div className="row align-items-center">
-        <div className="col-md">Have a project? I'd love to help </div>
+        <div className="col-md py-5">Have a project? I'd love to help </div>
         <div className="col-md">
           {" "}
           <Form>
